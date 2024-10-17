@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de análise e desenvolvimento de sistemas.<br>👯 Busco uma posição profissional para dar início a minha jornada.<br>🌱 Estudando e praticando Python, Java e SQL.
+🔭 Estudante de análise e desenvolvimento de sistemas.<br>👯 Desenvolvedor Python Jr .<br>🌱 Estudando e praticando Python e SQL.
 
 
 ## 🌐 Socials:
